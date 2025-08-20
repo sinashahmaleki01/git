@@ -3,7 +3,9 @@ document.getElementById("heading").addEventListener("click",function () {
 })
 
 function abc() {
-    return 5
+
+    return 6
+
 }
 
 abc()
